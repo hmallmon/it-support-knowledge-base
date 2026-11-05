@@ -1,3 +1,4 @@
+```text
 ├── README.md                  # Main project landing page & documentation
 ├── docs/                      # Folder containing individual FAQ guides
 │   ├── vpn-troubleshooting.md # Guide for VPN connectivity issues
@@ -5,3 +6,4 @@
 │   └── network-printing.md    # Guide for mapping and troubleshooting local printers
 └── templates/                 # Reusable help desk forms
     └── incident-report.md     # Template for logging and escalating tickets
+```
